@@ -4,6 +4,8 @@ Ticket Service
 
 X. Ma, 07/12/2016
 
+Implementation of a simple ticket service that facilitates the discovery, temporary hold, and final reservation of seats within a venue.
+
 ===================================
 1. Assumptions
 ===================================
