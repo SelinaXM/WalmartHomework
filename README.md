@@ -23,17 +23,13 @@ X. Ma, 07/12/2016
 2. Build Project By Gradle
 ===================================
 
-Run below command inside of this project folder
-
-$ gradle build
+Run "gradle build" command inside of this project folder
 
 ===================================
 3. Test Project By Gradle
 ===================================
 
-Run below command inside of this project folder
-
-$ gradle test
+Run "gradle test" command inside of this project folder
 
 ===================================
 4. Testing
